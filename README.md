@@ -9,23 +9,4 @@ Repo for spatial analysis and cartography documentation for Peak Health 2022
 
 ### Workflow: 
 1. Query veg map classes below:
-**Shrubland type**	**Alliance**
-  Chaparral	          Adenostoma fasciculatum Alliance
-  Chaparral	          Arctostaphylos (bakeri, montana) Alliance
-  Chaparral	          Arctostaphylos (canescens, manzanita, stanfordiana) Alliance
-Chaparral	Arctostaphylos (nummularia, sensitiva) – Chrysolepis chrysophylla Alliance
-Chaparral	Arctostaphylos glandulosa Alliance
-Coastal scrub	Artemisia californica – (Salvia leucophylla) Alliance
-Coastal scrub	Baccharis pilularis Alliance
-Chaparral	Ceanothus cuneatus Alliance
-Coastal scrub	Ceanothus thyrsiflorus Alliance
-Coastal scrub	Corylus cornuta / Polystichum munitum Association
-Coastal scrub	Eriophyllum staechadifolium – Erigeron glaucus – Eriogonum latifolium Alliance
-Coastal scrub	Frangula californica ssp. californica – Baccharis pilularis / Scrophularia californica Association
-Coastal scrub	Gaultheria shallon – Rubus (ursinus) Alliance
-Coastal scrub	Lotus scoparius – Lupinus albifrons – Eriodictyon spp. Alliance
-Chaparral	Quercus durata Alliance
-Chaparral	Quercus wislizeni – Quercus chrysolepis (shrub) Alliance
-N/A	Shrub Fragment
-Coastal scrub	Toxicodendron diversilobum – (Baccharis pilularis) Association
-
+![Classes Table](images/table.JPG)
